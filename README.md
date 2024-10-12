@@ -65,25 +65,6 @@ Instruction Following Game is an engaging and educational project designed to he
 5. Click "Submit" to send your prompt to the AI.
 6. Review the AI's response and the feedback.
 7. Keep trying until you successfully complete the challenge!
-
-## Contributing 🤝
-
-We welcome contributions to the Instruction Following Game! Here are some ways you can help:
-
-1. Add new challenging questions to `questions.py`
-2. Improve the user interface in `main.py`
-3. Enhance the feedback mechanism
-4. Optimize database queries and performance
-
-Please feel free to submit pull requests or open issues for any bugs or feature requests.
-
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments 👏
-
-- Thanks to the Together.ai team for providing access to the Qwen1.5-72B-Chat model.
 - Shoutout to the Gradio team for their excellent web UI framework.
 - Special thanks to all the prompt engineers and AI enthusiasts who inspire projects like this!
 
